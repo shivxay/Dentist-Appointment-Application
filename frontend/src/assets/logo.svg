@@ -1,0 +1,17 @@
+
+<svg width="300" height="100" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100">
+  <!-- Blue dot on top -->
+  <circle cx="40" cy="20" r="8" fill="#00AEEF" />
+
+  <!-- Outer blue circle -->
+  <circle cx="40" cy="60" r="28" fill="#00AEEF" />
+
+  <!-- Inner white circle -->
+  <circle cx="40" cy="60" r="20" fill="#FFFFFF" />
+
+  <!-- Smiley curve -->
+  <path d="M28,60 Q40,75 52,60" stroke="#00AEEF" stroke-width="3" fill="none" />
+
+  <!-- Text: Oracare -->
+  <text x="80" y="70" font-family="Arial, sans-serif" font-size="36" fill="#222">Oracare</text>
+</svg>
